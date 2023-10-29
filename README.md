@@ -1,7 +1,5 @@
-![library_header](https://github.com/aspindle/README.md/assets/9095033/568ddba6-1083-42ad-bc8d-d1979193e1ab)
-
 <pre>
-What I use:
+Stuff I use:
 </pre>
 
 [<img src="https://github.com/aspindle/README.md/assets/9095033/b3c2e234-d9c6-474f-9b2c-97c1d6c6cc29" width="50"/>](https://grapheneos.org)
