@@ -4,9 +4,9 @@ Stuff I use:
 
 <a href="https://grapheneos.org">
   <img src="https://github.com/aspindle/README.md/assets/9095033/b3c2e234-d9c6-474f-9b2c-97c1d6c6cc29" width="50" alt="grapheneos"/>
- </a>
+</a>
  
-[<a href="https://grapheneos.org">
+![<a href="https://grapheneos.org">
   <img src="https://github.com/aspindle/README.md/assets/9095033/b3c2e234-d9c6-474f-9b2c-97c1d6c6cc29" width="50" alt="grapheneos"/>
  </a>](https://grapheneos.org)
 [<img src="https://github.com/aspindle/README.md/assets/9095033/664be026-e01d-40ec-8450-96dd901f2d3b" width="50" alt="ubuntu"/>](https://ubuntu.com/)
