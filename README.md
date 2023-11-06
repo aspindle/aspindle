@@ -2,10 +2,13 @@
 Stuff I use:
 </pre>
 
-[![GrapheneOS](https://github.com/aspindle/README.md/assets/9095033/b3c2e234-d9c6-474f-9b2c-97c1d6c6cc29)](https://grapheneos.org)
+<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+
+#[![GrapheneOS](https://github.com/aspindle/README.md/assets/9095033/b3c2e234-d9c6-474f-9b2c-97c1d6c6cc29)](https://grapheneos.org)
+
 [![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
 
-<a href="https://grapheneos.org">Test</a>
+<a href="https://grapheneos.org">Regular Link</a>
 
 <a href="https://grapheneos.org">
   <img src="https://github.com/aspindle/README.md/assets/9095033/b3c2e234-d9c6-474f-9b2c-97c1d6c6cc29" width="50" alt="grapheneos"/>
