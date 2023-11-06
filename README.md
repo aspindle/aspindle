@@ -3,6 +3,8 @@ Stuff I use:
 </pre>
 
 [![GrapheneOS](https://github.com/aspindle/README.md/assets/9095033/b3c2e234-d9c6-474f-9b2c-97c1d6c6cc29)](https://grapheneos.org)
+[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
+
 <a href="https://grapheneos.org">Test</a>
 
 <a href="https://grapheneos.org">
