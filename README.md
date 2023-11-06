@@ -2,22 +2,26 @@
 Stuff I use:
 </pre>
 
-https://meta.stackexchange.com/questions/38915/creating-an-image-link-in-markdown-format
-
-<a href="https://grapheneos.org" rel="GrapheneOS">![GrapheneOS](https://github.com/aspindle/readme_imgs/blob/main/grapheneos3.png?raw=true)</a>
-<a href="https://ubuntu.com" rel="Ubuntu">![Ubuntu](https://github.com/aspindle/README.md/assets/9095033/664be026-e01d-40ec-8450-96dd901f2d3b)</a>
-<a href="https://termux.dev/en/" rel="Termux">![Termux](https://github.com/aspindle/readme_imgs/blob/main/termux.png?raw=true)</a>
-<a href="https://www.vim.org" rel="Vim">![Vim](https://github.com/aspindle/aspindle/assets/9095033/328af9ab-ce0a-4067-ae83-6a9e333a3049)</a>
-<a href="https://www.mozilla.org/en-US/firefox/new/" rel="Firefox">![Firefox](https://github.com/aspindle/readme_imgs/blob/main/firefox.png?raw=true)</a>
+<!-- https://meta.stackexchange.com/questions/38915/creating-an-image-link-in-markdown-format -->
 
 
+<a href="https://grapheneos.org" rel="GrapheneOS">![GrapheneOS](https://github.com/aspindle/readme_imgs2/blob/main/grapheneos3.png?raw=true)</a>
+<a href="https://ubuntu.com" rel="Ubuntu">![Ubuntu](https://github.com/aspindle/readme_imgs2/blob/main/ubuntu.png?raw=true)</a>
+<a href="https://termux.dev/en/" rel="Termux">![Termux](https://github.com/aspindle/readme_imgs2/blob/main/termux.png?raw=true)</a>
+<a href="https://www.vim.org" rel="Vim">![Vim](https://github.com/aspindle/readme_imgs2/blob/main/vim.png?raw=true)</a>
+<a href="https://www.mozilla.org/en-US/firefox/new/" rel="Firefox">![Firefox](https://github.com/aspindle/readme_imgs2/blob/main/firefox.png?raw=true)</a>
 
+
+
+<!-- 
 
 <a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
 
 #[![GrapheneOS](https://github.com/aspindle/README.md/assets/9095033/b3c2e234-d9c6-474f-9b2c-97c1d6c6cc29)](https://grapheneos.org)
 
 [![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
+
+https://meta.stackexchange.com/questions/38915/creating-an-image-link-in-markdown-format -->
 
 <a href="https://grapheneos.org">Regular Link</a>
 
