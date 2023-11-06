@@ -1,6 +1,12 @@
 <pre>
 Stuff I use:
+  
+<a href="https://grapheneos.org">
+  <img src="https://github.com/aspindle/README.md/assets/9095033/b3c2e234-d9c6-474f-9b2c-97c1d6c6cc29" width="50" alt="grapheneos"/>
+</a>
+  
 </pre>
+
 
 <a href="https://grapheneos.org">Test</a>
 
