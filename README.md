@@ -12,10 +12,12 @@
 Firefox Web Filter, [Offline Wikipedia](https://github.com/aspindle/2016_wikipedia_kiwix)
 
 #### 🎧 Listening to 
-[Joji](https://akshzyx.github.io/playerzyx/) 
+The Driver Era, [Joji, ](https://akshzyx.github.io/playerzyx/) & Connor Price
 
 #### 📚 And reading 
 Dune (Frank Herbert) 
+
+<!--
 
 //to add later maybe
 📚 Booklist
@@ -24,7 +26,7 @@ Dune (Frank Herbert)
 📈 Stocks
 
 
-<!--
+
 <pre>
 Stuff I use:
 </pre>
