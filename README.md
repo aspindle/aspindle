@@ -12,7 +12,7 @@
 Firefox Web Filter, [Offline Wikipedia](https://github.com/aspindle/2016_wikipedia_kiwix)
 
 #### 🎧 Listening to 
-The Driver Era, [Joji, ](https://akshzyx.github.io/playerzyx/) & Connor Price
+The Driver Era, [Joji](https://akshzyx.github.io/playerzyx/), & Connor Price
 
 #### 📚 And reading 
 Dune (Frank Herbert) 
