@@ -1,4 +1,4 @@
-👋 Hi there! I'm Alex (vi/wim)
+👋 Hi there! I'm Alex (vi/vim)
 
 #### 💻 Setup
 <!-- https://meta.stackexchange.com/questions/38915/creating-an-image-link-in-markdown-format -->
