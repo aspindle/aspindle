@@ -9,14 +9,19 @@
 <a href="https://www.mozilla.org/en-US/firefox/new/" rel="Firefox">![Firefox](https://github.com/aspindle/readme_imgs3/blob/main/firefox.png?raw=true)</a>
 
 #### 🛠 Working on
-Firefox Web Filter, [Offline Wikipedia](https://github.com/aspindle/2016_wikipedia_kiwix)
+[Firefox Filter](https://github.com/aspindle/Firefox_filter), [Offline Wikipedia](https://github.com/aspindle/2016_wikipedia_kiwix)
+
+
+<!--
+<pre>
+  And some fun stuff also:
+</pre>
 
 #### 🎧 Listening to 
 The Driver Era, [Joji](https://akshzyx.github.io/playerzyx/), & Connor Price
 
-#### 📚 And reading 
-Dune (Frank Herbert) 
-
+##### 📚 And reading Dune by Frank Herbert 
+-->
 <!--
 
 //to add later maybe
