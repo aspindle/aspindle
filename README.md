@@ -1,4 +1,4 @@
-👋 Hi there! I'm Alex (vi/vim)
+👋 Hi there! I'm Alex (vi/wim)
 
 #### 💻 Setup
 <!-- https://meta.stackexchange.com/questions/38915/creating-an-image-link-in-markdown-format -->
@@ -14,12 +14,16 @@ Firefox Web Filter, [Offline Wikipedia](https://github.com/aspindle/2016_wikiped
 #### 🎧 Listening to 
 [Joji](https://akshzyx.github.io/playerzyx/) 
 
+#### 📚 And reading 
+Dune (Frank Herbert) 
+
 //to add later maybe
 📚 Booklist
 ✨ Things I’ve made
 🕓 Socials
 📈 Stocks
-<!-- 
+
+
 
 <pre>
 Stuff I use:
