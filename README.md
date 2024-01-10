@@ -11,7 +11,7 @@
 #### 🛠 Working on
 [Firefox Sieves](https://github.com/aspindle/Firefox_Sieves), [Offline Wikipedia](https://github.com/aspindle/2016_wikipedia_kiwix)
 
-📚 [Booklist](https://github.com/aspindle/Booklist):  Read Responsibly.
+
 <!--
 <pre>
   And some fun stuff also:
@@ -21,6 +21,7 @@
 The Driver Era, [Joji](https://akshzyx.github.io/playerzyx/), & Connor Price
 
 ##### 📚 And reading Dune by Frank Herbert 
+📚 [Booklist](https://github.com/aspindle/Booklist):  Read Responsibly.
 -->
 <!--
 
