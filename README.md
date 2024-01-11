@@ -9,7 +9,7 @@
 <a href="https://www.mozilla.org/en-US/firefox/new/" rel="Firefox">![Firefox](https://github.com/aspindle/readme_imgs3/blob/main/firefox.png?raw=true)</a>
 
 #### 🛠 Working on
-[Firefox Sieves](https://github.com/aspindle/Firefox_Sieves), [Offline Wikipedia](https://github.com/aspindle/2016_wikipedia_kiwix)
+[Browser Sieves](https://github.com/aspindle/Browser_Sieves), [Offline Wikipedia](https://github.com/aspindle/2016_wikipedia_kiwix)
 
 
 <!--
