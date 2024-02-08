@@ -1,4 +1,4 @@
-👋 Hi there! I'm Alex (vi/vim)
+👋 Hi there! I'm [Alex](https://github.com/aspindle/_about) (vi/vim)
 
 #### 💻 Setup
 <!-- https://meta.stackexchange.com/questions/38915/creating-an-image-link-in-markdown-format -->
