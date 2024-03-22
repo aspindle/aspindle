@@ -68,5 +68,11 @@ Stuff I use:
 [<img src="https://github.com/aspindle/aspindle/assets/9095033/7a4729f9-161c-4185-94fb-f07adf5c400c" width="50" alt="firefox"/>](https://www.mozilla.org/en-US/firefox/new/)
 https://meta.stackexchange.com/questions/38915/creating-an-image-link-in-markdown-format 
 
+
+Off-screen 
+Ad-avoidance (social + music)
+Routine + food update
+I finally saw the use case of pronouns...
+
 -->
 
