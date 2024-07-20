@@ -1,12 +1,16 @@
 👋 Hey I'm [Alex](https://github.com/aspindle/_about)! (vi/vim)
 
+<!--
 #### 💻 Setup
+-->
 <!-- https://meta.stackexchange.com/questions/38915/creating-an-image-link-in-markdown-format -->
+<!--
 <a href="https://grapheneos.org" rel="GrapheneOS">![GrapheneOS](https://github.com/aspindle/readme_imgs3/blob/main/grapheneos3.png?raw=true)</a>
 <a href="https://ubuntu.com" rel="Ubuntu">![Ubuntu](https://github.com/aspindle/readme_imgs3/blob/main/ubuntu.png?raw=true)</a>
 <a href="https://termux.dev/en/" rel="Termux">![Termux](https://github.com/aspindle/readme_imgs3/blob/main/termux.png?raw=true)</a>
 <a href="https://www.vim.org" rel="Vim">![Vim](https://github.com/aspindle/readme_imgs3/blob/main/vim.png?raw=true)</a>
 <a href="https://www.mozilla.org/en-US/firefox/new/" rel="Firefox">![Firefox](https://github.com/aspindle/readme_imgs3/blob/main/firefox.png?raw=true)</a>
+-->
 
 #### 🛠 Working on
 [Browser Sieves](https://github.com/aspindle/Browser_Sieves), [Offline Wikipedia](https://github.com/aspindle/2016_wikipedia_kiwix), [Addi(c)tion Prohibition](https://github.com/aspindle/Addi-c-tion_Prohibition)
