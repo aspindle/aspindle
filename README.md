@@ -1,4 +1,4 @@
-👋 Hey I'm [Alex](https://github.com/aspindle/_about)! (vi/vim)
+👋 Hey I'm Alex! (vi/vim)
 
 <!--
 #### 💻 Setup
