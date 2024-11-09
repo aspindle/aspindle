@@ -1,4 +1,4 @@
-👋 Hey I'm Alex! (vi/vim)
+👋 Hey I'm Alex! 
 
 <!--
 #### 💻 Setup
@@ -11,10 +11,10 @@
 <a href="https://www.vim.org" rel="Vim">![Vim](https://github.com/aspindle/readme_imgs3/blob/main/vim.png?raw=true)</a>
 <a href="https://www.mozilla.org/en-US/firefox/new/" rel="Firefox">![Firefox](https://github.com/aspindle/readme_imgs3/blob/main/firefox.png?raw=true)</a>
 -->
-<!--
+
 #### 🛠 Working on
 [Browser Sieves](https://github.com/aspindle/Browser_Sieves), [Offline Wikipedia](https://github.com/aspindle/2016_wikipedia_kiwix), [Addi(c)tion Prohibition](https://github.com/aspindle/Addi-c-tion_Prohibition)
--->
+
 
 <!--
 Used to make avatar multi-language videos on youtube, got banned... 😭🫠💀🥹 -->
