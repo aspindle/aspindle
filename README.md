@@ -15,6 +15,14 @@
 #### 🛠 Working on
 [Browser Sieves](https://github.com/aspindle/Browser_Sieves), [Offline Wikipedia](https://github.com/aspindle/2016_wikipedia_kiwix), [Addi(c)tion Prohibition](https://github.com/aspindle/Addi-c-tion_Prohibition)
 -->
+### 🕓 Socials
+
+<a href="https://instagram.com/aspindle_" rel="Instagram">Instagram</a>
+<a href="https://x.com/aspindle_" rel="Twitter">Twitter/X</a>
+<a href="https://www.youtube.com/@aspindlevlogs" rel="Youtube Personal">Personal Youtube</a>
+<a href="https://www.youtube.com/@avatarmultilanguage7973" rel="Avatar Youtube">Avatar Youtube</a>
+<a href="https://www.linkedin.com/in/aspindle" rel="linkedin">Linked In</a>
+
 
 <!--
 Used to make avatar multi-language videos on youtube, got banned... 😭🫠💀🥹 -->
