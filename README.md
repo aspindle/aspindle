@@ -22,6 +22,7 @@
 <a href="https://www.youtube.com/@aspindlevlogs" rel="Youtube Personal">Personal Youtube</a>
 <a href="https://www.youtube.com/@avatarmultilanguage7973" rel="Avatar Youtube">Avatar Youtube</a>
 <a href="https://www.linkedin.com/in/aspindle" rel="linkedin">Linked In</a>
+<a href="https://www.tiktok.com/@aspindle_" rel="tiktok">Tik Tok</a>
 
 
 <!--
