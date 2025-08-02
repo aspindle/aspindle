@@ -16,16 +16,60 @@
 [Browser Sieves](https://github.com/aspindle/Browser_Sieves), [Offline Wikipedia](https://github.com/aspindle/2016_wikipedia_kiwix), [Addi(c)tion Prohibition](https://github.com/aspindle/Addi-c-tion_Prohibition)
 -->
 ### 🕓 Socials
+<!--<a href="https://instagram.com/aspindle_" rel="Instagram">Instagram</a>
+<a href="https://x.com/aspindle_" rel="Twitter">Twitter/X</a>-->
 
-<a href="https://instagram.com/aspindle_" rel="Instagram">Instagram</a>
-<a href="https://x.com/aspindle_" rel="Twitter">Twitter/X</a>
-<a href="https://www.youtube.com/@aspindlevlogs" rel="Youtube Personal">Personal Youtube</a>
-<a href="https://www.youtube.com/@avatarmultilanguage7973" rel="Avatar Youtube">Avatar Youtube</a>
-<a href="https://www.linkedin.com/in/aspindle" rel="linkedin">Linked In</a>
+<a href="https://instagram.com/aspindle_">
+  <img
+      src="https://img.shields.io/badge/follow-%40aspindle_-1DA1F2?logo=instagram&style=flat&label=Instagram&color=0072b1&logoColor=ffffff"
+      alt="Instagram"
+    />
+</a>
+ <a href="https://x.com/aspindle_">
+    <img
+      src="https://img.shields.io/badge/follow-%40aspindle_-1DA1F2?logo=twitter&style=flat&label=Twitter/X&color=0072b1&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+<a href="https://www.youtube.com/channel/UCgXVI4WqMvbs4knjXmCUG2Q">
+  <img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCgXVI4WqMvbs4knjXmCUG2Q?style=flat&color=0072b1&logoColor=ffffff&logo=youtube&label=Personal_Youtube">
+</a>
+<a href="https://www.youtube.com/channel/UC-8yN6d48As8aC9MDjtfI2g">
+  <img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UC-8yN6d48As8aC9MDjtfI2g?style=flat&color=0072b1&logoColor=ffffff&logo=youtube&label=Avatar_Youtube_1">
+</a>
+<a href="https://www.youtube.com/channel/UCQ0qEM_rTl5Lmo-BCdF6J7Q">
+  <img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCQ0qEM_rTl5Lmo-BCdF6J7Q?style=flat&color=0072b1&logoColor=ffffff&logo=youtube&label=Avatar_Youtube_2">
+</a>
+ <a href="https://www.linkedin.com/in/aspindle">
+    <img
+      src="https://img.shields.io/badge/follow-%40aspindle-1DA1F2?logo=Linkedin&style=flat&label=Linkedin&color=0072b1&logoColor=ffffff"
+      alt="LinkedIn"
+    />
+  </a>
+   <a href="https://www.tiktok.com/@aspindle_">
+    <img
+      src="https://img.shields.io/badge/follow-%40aspindle_-1DA1F2?logo=tiktok&style=flat&label=TikTok&color=0072b1&logoColor=ffffff"
+      alt="TikTok"
+    />
+  </a>
+  <a href="https://www.goodreads.com/user/show/21409029-aspindle">
+    <img
+      src="https://img.shields.io/badge/follow-%40aspindle_-1DA1F2?logo=goodreads&style=flat&label=Goodreads&color=0072b1&logoColor=ffffff"
+      alt="Goodreads"
+    />
+  </a>
+  <a href="https://open.spotify.com/user/12156292742">
+    <img
+      src="https://img.shields.io/badge/follow-%40aspindle_-1DA1F2?logo=spotify&style=flat&label=Spotify&color=0072b1&logoColor=ffffff"
+      alt="Spotify"
+    />
+  </a>
+  <!--
+<a href="" rel="linkedin">Linked In</a>
 <a href="https://www.tiktok.com/@aspindle_" rel="tiktok">Tik Tok</a>
 <a href="https://www.goodreads.com/user/show/21409029-aspindle" rel="goodreads">Goodreads</a>
 <a href="https://open.spotify.com/user/12156292742" rel="spotify">Spotify</a>
-
+-->
 
 
 
