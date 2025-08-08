@@ -1,4 +1,4 @@
-👋 Hey I'm Alex! 
+👋 Hey I'm Alex, an Eagle Scout 🦅, UCSD Computer Science graduate 🤓 and really tall (6'4") human being who still loves the original Avatar: The Last Airbender 💧⛰️🔥💨 and saying hello to new people online! ✨ Feel free to reach out below!
 
 <!--
 #### 💻 Setup
@@ -15,7 +15,7 @@
 #### 🛠 Working on
 [Browser Sieves](https://github.com/aspindle/Browser_Sieves), [Offline Wikipedia](https://github.com/aspindle/2016_wikipedia_kiwix), [Addi(c)tion Prohibition](https://github.com/aspindle/Addi-c-tion_Prohibition)
 -->
-### 🕓 Socials
+### 💻 Socials
 <!--<a href="https://instagram.com/aspindle_" rel="Instagram">Instagram</a>
 <a href="https://x.com/aspindle_" rel="Twitter">Twitter/X</a>-->
 
