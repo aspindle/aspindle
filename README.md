@@ -1,4 +1,4 @@
-👋 Hey I'm Alex, an Eagle Scout 🦅, UCSD Computer Science graduate 🤓 and really tall (6'4") human being who still loves the original Avatar: The Last Airbender 💧⛰️🔥💨 and saying hello to new people online! ✨ Feel free to reach out below!
+👋 Hey I'm Alex, an Eagle Scout 🦅, UCSD Computer Science graduate 🤓 and really tall (6'4") human being who loves painting and the original Avatar: The Last Airbender. 💧⛰️🔥💨  ✨ Feel free to reach out below!
 
 <!--
 #### 💻 Setup
