@@ -1,4 +1,4 @@
-👋 Hey I'm Alex, an Eagle Scout 🦅, UCSD Computer Science graduate 🤓 and really tall (6'4") human being who, in spare time, enjoys reading and the original Avatar: The Last Airbender. 💧⛰️🔥💨  ✨ Feel free to reach out below!
+👋 Hey I'm Alex, an Eagle Scout 🦅, UCSD Computer Science graduate 🤓 and really tall (6'4") person who, in spare time, enjoys reading and the original Avatar: The Last Airbender. 💧⛰️🔥💨  ✨ Feel free to reach out below!
 
 <!--
 #### 💻 Setup
@@ -62,6 +62,12 @@
     <img
       src="https://img.shields.io/badge/follow-%40aspindle_-1DA1F2?logo=spotify&style=flat&label=Spotify&color=0072b1&logoColor=ffffff"
       alt="Spotify"
+    />
+  </a>
+  <a href="https://quizlet.com/user/aspindle_/sets">
+    <img
+      src="https://img.shields.io/badge/follow-%40aspindle_-1DA1F2?logo=quizlet&style=flat&label=Quizlet&color=0072b1&logoColor=ffffff"
+      alt="Quizlet"
     />
   </a>
   <!--
