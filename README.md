@@ -15,6 +15,9 @@
 #### 🛠 Working on
 [Browser Sieves](https://github.com/aspindle/Browser_Sieves), [Offline Wikipedia](https://github.com/aspindle/2016_wikipedia_kiwix), [Addi(c)tion Prohibition](https://github.com/aspindle/Addi-c-tion_Prohibition)
 -->
+<img width="125" height="125" alt="sunshine_small" src="https://github.com/user-attachments/assets/45aa587b-5467-4205-bd02-19d7debccfaf" />
+
+
 ### 💻 Socials
 <!--<a href="https://instagram.com/aspindle_" rel="Instagram">Instagram</a>
 <a href="https://x.com/aspindle_" rel="Twitter">Twitter/X</a>-->
