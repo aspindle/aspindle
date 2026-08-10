@@ -34,15 +34,7 @@
       alt="Twitter"
     />
   </a>
-<a href="https://www.youtube.com/channel/UCgXVI4WqMvbs4knjXmCUG2Q">
-  <img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCgXVI4WqMvbs4knjXmCUG2Q?style=flat&color=0072b1&logoColor=ffffff&logo=youtube&label=Personal_Youtube">
-</a>
-<a href="https://www.youtube.com/channel/UC-8yN6d48As8aC9MDjtfI2g">
-  <img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UC-8yN6d48As8aC9MDjtfI2g?style=flat&color=0072b1&logoColor=ffffff&logo=youtube&label=Avatar_Youtube_1">
-</a>
-<a href="https://www.youtube.com/channel/UCQ0qEM_rTl5Lmo-BCdF6J7Q">
-  <img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCQ0qEM_rTl5Lmo-BCdF6J7Q?style=flat&color=0072b1&logoColor=ffffff&logo=youtube&label=Avatar_Youtube_2">
-</a>
+
  <a href="https://www.linkedin.com/in/aspindle">
     <img
       src="https://img.shields.io/badge/follow-%40aspindle-1DA1F2?logo=Linkedin&style=flat&label=Linkedin&color=0072b1&logoColor=ffffff"
@@ -73,6 +65,25 @@
       alt="Quizlet"
     />
   </a>
+ <a href="https://archive.org/details/@alex_spindler/favorites">
+    <img
+      src="https://img.shields.io/badge/follow-%40aspindle_-1DA1F2?logo=Archive.org&style=flat&label=Archive.org&color=0072b1&logoColor=ffffff"
+      alt="Archive.org"
+    />
+  </a>
+  
+### ▶️ Youtube(s)
+
+
+  <a href="https://www.youtube.com/channel/UCgXVI4WqMvbs4knjXmCUG2Q">
+  <img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCgXVI4WqMvbs4knjXmCUG2Q?style=flat&color=0072b1&logoColor=ffffff&logo=youtube&label=Aspindle">
+</a>
+<a href="https://www.youtube.com/channel/UC-8yN6d48As8aC9MDjtfI2g">
+  <img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UC-8yN6d48As8aC9MDjtfI2g?style=flat&color=0072b1&logoColor=ffffff&logo=youtube&label=Avatar_Multilanguage_Original">
+</a>
+<a href="https://www.youtube.com/channel/UCQ0qEM_rTl5Lmo-BCdF6J7Q">
+  <img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCQ0qEM_rTl5Lmo-BCdF6J7Q?style=flat&color=0072b1&logoColor=ffffff&logo=youtube&label=Avatar_Multilanguage_Extras">
+</a>
   <!--
 <a href="" rel="linkedin">Linked In</a>
 <a href="https://www.tiktok.com/@aspindle_" rel="tiktok">Tik Tok</a>
@@ -80,15 +91,6 @@
 <a href="https://open.spotify.com/user/12156292742" rel="spotify">Spotify</a>
 -->
 
-
-
-<!--
-Used to make avatar multi-language videos on youtube, got banned... 😭🫠💀🥹 -->
-
-<!--
-#### Other Stuff
-_ writing/essay/_, Probably Watching,   
-<!-- -->
 
 <!--
 <pre>
