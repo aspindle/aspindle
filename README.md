@@ -84,6 +84,12 @@
 <a href="https://www.youtube.com/channel/UCQ0qEM_rTl5Lmo-BCdF6J7Q">
   <img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCQ0qEM_rTl5Lmo-BCdF6J7Q?style=flat&color=0072b1&logoColor=ffffff&logo=youtube&label=Avatar_Multilanguage_Extras">
 </a>
+
+
+### ☯️ ATLA quote
+
+
+"Destiny? What would a boy know of destiny? If a fish lives its whole life in this river, does he know the river's destiny? No! Only that it runs on and on out of his control! He may follow where it flows, but he cannot see the end. He cannot imagine the ocean." - The Deserter
   <!--
 <a href="" rel="linkedin">Linked In</a>
 <a href="https://www.tiktok.com/@aspindle_" rel="tiktok">Tik Tok</a>
