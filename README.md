@@ -74,7 +74,25 @@
   
 ### ▶️ Youtube(s)
 
-
+ <a href="https://www.youtube.com/channel/UCgXVI4WqMvbs4knjXmCUG2Q">
+    <img
+      src="https://img.shields.io/badge/follow-%40aspindle_-1DA1F2?logo=Youtube&style=flat&label=Personal_Youtube&color=0072b1&logoColor=ffffff"
+      alt="Personal Youtube"
+    />
+  </a>
+  <a href="https://www.youtube.com/channel/UC-8yN6d48As8aC9MDjtfI2g">
+    <img
+      src="https://img.shields.io/badge/follow-%40aspindle_-1DA1F2?logo=Youtube&style=flat&label=Avatar_Multilanguage_Original&color=0072b1&logoColor=ffffff"
+      alt="Avatar Multilanguage Original Youtube"
+    />
+  </a>
+<a href="https://www.youtube.com/channel/UCQ0qEM_rTl5Lmo-BCdF6J7Q">
+    <img
+      src="https://img.shields.io/badge/follow-%40aspindle_-1DA1F2?logo=Youtube&style=flat&label=Avatar_Multilanguage_Extras&color=0072b1&logoColor=ffffff"
+      alt="Avatar Multilanguage Extras Youtube"
+    />
+  </a>
+  <!--
   <a href="https://www.youtube.com/channel/UCgXVI4WqMvbs4knjXmCUG2Q">
   <img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCgXVI4WqMvbs4knjXmCUG2Q?style=flat&color=0072b1&logoColor=ffffff&logo=youtube&label=Aspindle">
 </a>
@@ -83,7 +101,7 @@
 </a>
 <a href="https://www.youtube.com/channel/UCQ0qEM_rTl5Lmo-BCdF6J7Q">
   <img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCQ0qEM_rTl5Lmo-BCdF6J7Q?style=flat&color=0072b1&logoColor=ffffff&logo=youtube&label=Avatar_Multilanguage_Extras">
-</a>
+</a>-->
 
 
 ### ☯️ ATLA quote
