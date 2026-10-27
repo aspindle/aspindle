@@ -71,6 +71,12 @@
       alt="Archive.org"
     />
   </a>
+  <a href="https://huggingface.co/aspindle">
+    <img
+      src="https://img.shields.io/badge/follow-%40aspindle-1DA1F2?logo=HuggingFace&style=flat&label=HuggingFace&color=0072b1&logoColor=ffffff"
+      alt="HuggingFace"
+    />
+  </a>
   
 ### ▶️ Youtube(s)
 
