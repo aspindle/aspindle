@@ -20,7 +20,7 @@
 <img width="1000" height="2" alt="rainbow-gif" src="https://github.com/user-attachments/assets/e99f6714-14d0-4941-a71c-6200f36a4354" />
 
 
-### 🤓 Tech
+### 🚀 Tech
 
 [![Learning](https://skillicons.dev/icons?i=windows,apple,ubuntu,blender,pr,ae,firebase,gmail,js,html,css,matlab,github,postman,rust,python,raspberrypi,react,redux,unity,vscode,wasm,c,vim)](https://skillicons.dev)
 
