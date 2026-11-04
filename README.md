@@ -19,6 +19,12 @@
 <!-- <img width="125" height="125" alt="sunshine_small" src="https://github.com/user-attachments/assets/45aa587b-5467-4205-bd02-19d7debccfaf" /> -->
 <img width="1000" height="2" alt="rainbow-gif" src="https://github.com/user-attachments/assets/e99f6714-14d0-4941-a71c-6200f36a4354" />
 
+
+### 🤓 Tech
+
+[![Learning](https://skillicons.dev/icons?i=windows,apple,ubuntu,blender,pr,ae,firebase,gmail,js,html,css,matlab,github,postman,rust,python,raspberrypi,react,redux,unity,vscode,wasm,c,vim)](https://skillicons.dev)
+
+
 ### 💻 Socials
 <!--<a href="https://instagram.com/aspindle_" rel="Instagram">Instagram</a>
 <a href="https://x.com/aspindle_" rel="Twitter">Twitter/X</a>-->
