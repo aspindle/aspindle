@@ -1,3 +1,4 @@
+
 <!--👋 Hey I'm Alex, an Eagle Scout 🦅, UCSD Computer Science graduate 🤓 and really tall (6'4") person who, in spare time, enjoys reading and the original Avatar: The Last Airbender. 💧⛰️🔥💨  ✨ Feel free to reach out!-->
 
 <!--
@@ -15,8 +16,8 @@
 #### 🛠 Working on
 [Browser Sieves](https://github.com/aspindle/Browser_Sieves), [Offline Wikipedia](https://github.com/aspindle/2016_wikipedia_kiwix), [Addi(c)tion Prohibition](https://github.com/aspindle/Addi-c-tion_Prohibition)
 -->
-<img width="125" height="125" alt="sunshine_small" src="https://github.com/user-attachments/assets/45aa587b-5467-4205-bd02-19d7debccfaf" />
-
+<!-- <img width="125" height="125" alt="sunshine_small" src="https://github.com/user-attachments/assets/45aa587b-5467-4205-bd02-19d7debccfaf" /> -->
+<img width="1000" height="2" alt="rainbow-gif" src="https://github.com/user-attachments/assets/e99f6714-14d0-4941-a71c-6200f36a4354" />
 
 ### 💻 Socials
 <!--<a href="https://instagram.com/aspindle_" rel="Instagram">Instagram</a>
@@ -111,9 +112,8 @@
 
 
 ### ☯️ ATLA quote
+ “Sometimes life is like this dark tunnel. You can't always see the light at the end of the tunnel, but if you just keep moving... you will come to a better place.” ― Uncle Iroh 
 
-
-"Destiny? What would a boy know of destiny? If a fish lives its whole life in this river, does he know the river's destiny? No! Only that it runs on and on out of his control! He may follow where it flows, but he cannot see the end. He cannot imagine the ocean." - The Deserter
   <!--
 <a href="" rel="linkedin">Linked In</a>
 <a href="https://www.tiktok.com/@aspindle_" rel="tiktok">Tik Tok</a>
