@@ -22,7 +22,7 @@
 
 ### 🚀 Tech
 
-[![Learning](https://skillicons.dev/icons?i=windows,apple,ubuntu,blender,pr,ae,firebase,gmail,js,html,css,matlab,github,postman,rust,python,raspberrypi,react,redux,unity,vscode,wasm,c,vim)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=windows,apple,ubuntu,blender,ps,pr,ae,firebase,gmail,js,html,css,matlab,github,postman,raspberrypi,react,redux,unity,vscode,wasm,c,rust,python,vim)](https://skillicons.dev)
 
 
 ### 💻 Social
