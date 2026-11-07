@@ -37,14 +37,14 @@
 </a>
  <a href="https://x.com/aspindle_">
     <img
-      src="https://img.shields.io/badge/follow-%40aspindle_-1DA1F2?logo=twitter&style=flat&label=Twitter/X&color=0072b1&logoColor=ffffff"
+      src="https://img.shields.io/badge/follow-%40aspindle_-1DA1F2?logo=X&style=flat&label=X&color=0072b1&logoColor=ffffff"
       alt="Twitter"
     />
   </a>
 
  <a href="https://www.linkedin.com/in/aspindle">
     <img
-      src="https://img.shields.io/badge/follow-%40aspindle-1DA1F2?logo=Linkedin&style=flat&label=Linkedin&color=0072b1&logoColor=ffffff"
+      src="https://img.shields.io/badge/follow-%40aspindle-1DA1F2?logo=linkedin&style=flat&label=LinkedIn&color=0072b1&logoColor=ffffff"
       alt="LinkedIn"
     />
   </a>
